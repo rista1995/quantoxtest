@@ -1,0 +1,95 @@
+#naslink:hover{
+	 COLOR: silver; 
+	text-decoration:none;
+}
+#naslink{
+	COLOR:white;
+	font-weight:bold;
+	text-decoration:none;
+}
+#naslink1:hover{
+	color:grey;
+	text-decoration:none;
+}
+#naslink1{
+	color:black;
+	font-weight:bold;
+	text-decoration:none;
+	
+}
+.btn3 {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 5px;
+  font-family: Arial;
+  color: black;
+  font-weight:bold;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn3:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.btn {
+  border: 2px solid red;
+  color: #2bbbdf;
+  background-color:red;
+  padding: 8px 20px;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.btn:hover{
+	color:silver;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #D4D4D4;
+    margin: 1em 0;
+    padding: 0; 
+}
+
+.btn1 {
+  border: 2px solid #146EE1;
+  color:white; 
+  background-color: #146EE1;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: bold;
+  width:100%;
+}
+
+.tabelica{
+	background-color:#EFF0F0;
+}
+table.tabelica tr{
+	border:1px solid #D5D6D6;
+}
+
+table.tabelica tr:hover{
+	border:2px solid #3C99C7;
+}
+
+
+img {
+  margin-bottom: -4px;
+}
+
+}
